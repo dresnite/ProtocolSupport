@@ -20,7 +20,8 @@ class NetworkSessionAdapter extends PlayerNetworkSessionAdapter {
 
     private const SUPPORTED_PROTOCOLS = [
         407,
-        408
+        408,
+        410
     ];
 
     public function handleLogin(LoginPacket $packet): bool {
