@@ -6,7 +6,7 @@ A plugin to support multiple protocols for PocketMine-MP.
 
 - 407 (1.6.0, 1.6.1)
 - 408 (1.6.20)
-- 410 (beta 1.6.100)
+- 409, 410 (beta 1.6.100.x)
 
 ### Known issues
 
